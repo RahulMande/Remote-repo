@@ -1,0 +1,50 @@
+[
+  {
+    "Customer Name": "Rahul Kumar",
+    "Phone Number": "9876543210",
+    "Medicine PIN": "MED12345",
+    "City": "Delhi"
+  },
+  {
+    "Customer Name": "Sneha Reddy",
+    "Phone Number": "9123456789",
+    "Medicine PIN": "MED54321",
+    "City": "Hyderabad"
+  },
+  {
+    "Customer Name": "Ajay Mehta",
+    "Phone Number": "9988776655",
+    "Medicine PIN": "MED78901",
+    "City": "Mumbai"
+  },
+   {
+    "Customer Name": "Nikil",
+    "Phone Number": "9988776655",
+    "Medicine PIN": "MED78901",
+    "City": "Guntur"
+  },
+   {
+    "Customer Name": "Akhil",
+    "Phone Number": "9988776655",
+    "Medicine PIN": "MED78901",
+    "City": "Guntur"
+  },
+   {
+    "Customer Name": "Manoj",
+    "Phone Number": "9988776655",
+    "Medicine PIN": "MED78901",
+    "City": "Delhi"
+  },
+   {
+    "Customer Name": "kiran",
+    "Phone Number": "9988776655",
+    "Medicine PIN": "MED78901",
+    "City": "Hyderabad"
+  },
+   {
+    "Customer Name": "Anji",
+    "Phone Number": "9988776655",
+    "Medicine PIN": "MED78901",
+    "City": "banglore"
+  }
+]
