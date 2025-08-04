@@ -1,8 +1,10 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
+function speak() {
+  return `Hello, ${this.name}`;
+}
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
+const user = {
+  name: "Bob",
+  greet: speak
+};
+
+console.log(user.greet()); // "Hello, Bob"
