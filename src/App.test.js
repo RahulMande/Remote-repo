@@ -7,4 +7,4 @@ const user = {
   greet: speak
 };
 
-console.log(user.greet()); // "Hello, Bob"
+console.log(user.greet()); // "Hello, Bob"b
