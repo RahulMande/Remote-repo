@@ -8,4 +8,5 @@ class Person {
 }
 
 const p = new Person("Charlie");
-console.log(p.greet()); // "Hi, I'm Charlie"s
+console.log(p.greet()); // "Hi, I'm Charlie"
+console.log(p);
